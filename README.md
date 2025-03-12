@@ -72,15 +72,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - **Chenyi Li** -  [Personal Page](https://github.com/Nichenggan)
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used.
-- Inspiration.
-- etc.
-
 ## Changelog
 
 ### 2025-03-12
 
 - Updated README.
 - Initialized game files.
+****
