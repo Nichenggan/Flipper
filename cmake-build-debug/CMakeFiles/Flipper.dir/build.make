@@ -204,6 +204,9 @@ Flipper: CMakeFiles/Flipper.dir/G2DPPM.cpp.o
 Flipper: CMakeFiles/Flipper.dir/G2DX.cpp.o
 Flipper: CMakeFiles/Flipper.dir/V2.cpp.o
 Flipper: CMakeFiles/Flipper.dir/build.make
+Flipper: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/GLUT.framework
+Flipper: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/OpenGL.framework
+Flipper: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/Cocoa.framework
 Flipper: CMakeFiles/Flipper.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/aminoc/Desktop/personal/Matieres/cpp/Flipper/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Flipper"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Flipper.dir/link.txt --verbose=$(VERBOSE)

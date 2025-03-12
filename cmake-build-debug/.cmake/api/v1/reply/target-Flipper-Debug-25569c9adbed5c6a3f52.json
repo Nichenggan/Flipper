@@ -11,8 +11,8 @@
 		"commands" : 
 		[
 			"add_executable",
-			"target_link_libraries",
-			"include_directories"
+			"include_directories",
+			"target_link_libraries"
 		],
 		"files" : 
 		[
@@ -26,19 +26,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 13,
+				"line" : 22,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 28,
+				"line" : 19,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 11,
+				"line" : 38,
 				"parent" : 0
 			}
 		]
@@ -55,20 +55,21 @@
 			"frameworks" : 
 			[
 				{
+					"backtrace" : 3,
+					"isSystem" : true,
 					"path" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/OpenGL.framework"
-				},
-				{
-					"path" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/GLUT.framework"
-				},
-				{
-					"path" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/Cocoa.framework"
 				}
 			],
 			"includes" : 
 			[
 				{
+					"backtrace" : 2,
+					"path" : "/Users/aminoc/Desktop/personal/Matieres/cpp/Flipper"
+				},
+				{
 					"backtrace" : 3,
-					"path" : "/Users/aminoc/Desktop/personal/Matieres/cpp/Flipper/."
+					"isSystem" : true,
+					"path" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/GLUT.framework/Headers"
 				}
 			],
 			"language" : "CXX",
@@ -107,29 +108,14 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-framework OpenGL",
-				"role" : "libraries"
-			},
-			{
 				"fragment" : "-framework GLUT",
 				"role" : "libraries"
 			},
 			{
-				"fragment" : "-framework Cocoa",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
 				"fragment" : "-framework OpenGL",
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 2,
-				"fragment" : "-framework GLUT",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
 				"fragment" : "-framework Cocoa",
 				"role" : "libraries"
 			}

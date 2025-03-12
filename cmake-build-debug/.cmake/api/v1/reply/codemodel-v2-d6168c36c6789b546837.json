@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.29"
+						"string" : "3.27"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Flipper::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Flipper-Debug-caf3601228f77a65dc32.json",
+					"jsonFile" : "target-Flipper-Debug-25569c9adbed5c6a3f52.json",
 					"name" : "Flipper",
 					"projectIndex" : 0
 				}
